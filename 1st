@@ -16,7 +16,7 @@
 {"city" : "Indianapolis",    "mascot" : "Colts",		"short" : "IND", 	"homeText" : "FFFFFF",	"homeMain" : "001CB2",	"homeSecondary" : "FFFFFF",	"awayText" : "001CB2",	"awayMain" : "FFFFFF",  "awaySecondary" : "001CB2"},
 {"city" : "Ohio",       	"mascot" : "Buckeyes",		"short" : "OH", 	"homeText" : "000000",	"homeMain" : "FF0004",	"homeSecondary" : "E9E9E9",	"awayText" : "FF0004",	"awayMain" : "FFFFFF",  "awaySecondary" : "E9E9E9"},
 {"city" : "Detroit",    	"mascot" : "Mustangs",	  	"short" : "DET", 	"homeText" : "CECECE",	"homeMain" : "006CB4",	"homeSecondary" : "006CB4",	"awayText" : "006CB4",	"awayMain" : "FFFFFF",  "awaySecondary" : "006CB4"},
-{"city" : "Toronto",     	"mascot" : "Maple Leaves",		"short" : "TOR", 	"homeText" : "FFFFFF",	"homeMain" : "D121616",	"homeSecondary" : "D121616",	"awayText" : "D121616",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"},
+{"city" : "Toronto",     	"mascot" : "Maple Leaves",		"short" : "TOR", 	"homeText" : "FFFFFF",	"homeMain" : "DD0E11",	"homeSecondary" : "DD0E11",	"awayText" : "DD0E11",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"},
 {"city" : "Chicago",  	"mascot" : "Surge",		"short" : "CHI", 	"homeText" : "FF6200",	"homeMain" : "162080",	"homeSecondary" : "FFFFFF",	"awayText" : "162080",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF6200"},
 {"city" : "Wisconsin",       "mascot" : "Bucks",			"short" : "WIS", 	"homeText" : "FFFFFF",	"homeMain" : "005327",	"homeSecondary" : "FFDD10",	"awayText" : "005327",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFDD10"},
 {"city" : "Minnesota", 		"mascot" : "Vikings",		"short" : "MIN", 	"homeText" : "FFFFFF",	"homeMain" : "6E00AB",	"homeSecondary" : "FFDD00",	"awayText" : "6E00AB",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFDD00"},

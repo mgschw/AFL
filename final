@@ -1,4 +1,4 @@
-[
+
 {"city" : "New York",     	"mascot" : "Yankees",	  	"short" : "NYY",	"homeText" : "FFFFFF",	"homeMain" : "2E299B",	"homeSecondary" : "2E299B",	"awayText" : "2E299B",	"awayMain" : "FFFFFF",  "awaySecondary" : "2E299B"},
 {"city" : "New York",   	"mascot" : "Giants",		"short" : "NYG", 	"homeText" : "FFFFFF",	"homeMain" : "002DBD",	"homeSecondary" : "F70909",	"awayText" : "F70909",	"awayMain" : "FFFFFF",  "awaySecondary" : "F70909"},
 {"city" : "London",     	"mascot" : "Monarchs",			"short" : "LDN", 	"homeText" : "F02629",	"homeMain" : "E2BD4F",	"homeSecondary" : "1B36DE",	"awayText" : "1B36DE",	"awayMain" : "FFFFFF",  "awaySecondary" : "F02629"},
@@ -26,9 +26,9 @@
 {"city" : "San Francisco",      "mascot" : "Gold Diggers",	"short" : "SF", 	"homeText" : "FFFFFF",	"homeMain" : "A51D1F",	"homeSecondary" : "A99875",	"awayText" : "E40004",	"awayMain" : "FFFFFF",  "awaySecondary" : "E40004"},
 {"city" : "Las Vegas",     	"mascot" : "Aces",	  		"short" : "LV", 	"homeText" : "FF0004",	"homeMain" : "000000",	"homeSecondary" : "E3D8AD",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF0004"},
 {"city" : "Los Angeles", 	"mascot" : "Stars",			"short" : "LAS", 	"homeText" : "FFFFFF",	"homeMain" : "0038D1",	"homeSecondary" : "0038D1",	"awayText" : "FFD600",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"},
-{"city" : "Los Angeles", 	"mascot" : "Raiders",		"short" : "LAR", 	"homeText" : "D2D2D2",	"homeMain" : "000000",	"homeSecondary" : "000000",	"awayText" : "FFFFFF",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Los Angeles", 	"mascot" : "Raiders",		"short" : "LAR", 	"homeText" : "D2D2D2",	"homeMain" : "000000",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"},
 {"city" : "Mexico City",	"mascot" : "Aztecs",		"short" : "CDM", 	"homeText" : "FFFFFF",	"homeMain" : "0F5330",	"homeSecondary" : "D70004",	"awayText" : "FFE012",	"awayMain" : "FFFFFF",  "awaySecondary" : "0F5330"},
-{"city" : "Dallas",   "mascot" : "Cowboys",		"short" : "DAL", 	"homeText" : "FFFFFF",	"homeMain" : "001D78",	"homeSecondary" : "C8C8C8",	"awayText" : "00B2D0",	"awayMain" : "FFFFFF",  "awaySecondary" : "001D78"},
+{"city" : "Dallas",   "mascot" : "Cowboys",		"short" : "DAL", 	"homeText" : "FFFFFF",	"homeMain" : "001D78",	"homeSecondary" : "D8D8D8",	"awayText" : "00B2D0",	"awayMain" : "FFFFFF",  "awaySecondary" : "001D78"},
 {"city" : "Arizona",   		"mascot" : "Rattlers",		"short" : "ARI", 	"homeText" : "FF9D00",	"homeMain" : "000000",	"homeSecondary" : "000000",	"awayText" : "FF9D00",	"awayMain" : "FFFFFF",  "awaySecondary" : "00C7FF"},
 {"city" : "Texas",        	"mascot" : "Longhorns",		"short" : "TX", 	"homeText" : "FFFFFF",	"homeMain" : "FF8F00",	"homeSecondary" : "FF8F00",	"awayText" : "FF8F00",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"}
 ]
